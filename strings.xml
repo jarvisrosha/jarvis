@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">Jarvis can press Back or Home, read the text on the screen, tap a button by its name, scroll and type. It only does this when you ask it to by voice or text.</string>
+</resources>
